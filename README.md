@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GTorVar
 - 👀 I’m interested in data science, cuantitative analysis and big data applied to psychology
 - 🌱 I’m currently learning health and behavioral sciences research methodology
-- 💞️ I’m looking to collaborate in whatever I can in my field
+- 💞️ I’m looking to collaborate in whatever I can in my field, using R or python
 - 📫 How to reach me: in this GitHub 
 
 <!---
